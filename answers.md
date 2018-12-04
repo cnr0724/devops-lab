@@ -1,7 +1,7 @@
 # Answers
 
-Lastname:
-Firstname:
+Lastname: Nuree
+Firstname: Choi
 
 ## 2.2
 command:
