@@ -4,11 +4,11 @@ Lastname: Nuree
 Firstname: Choi
 
 ## 2.2
-command:
+command: docker run zoo_nuree
 
 ## 2.3
-question:
-command:
+question: It's because the port needed to access the service is not published.
+command: docker run -P zoo_nuree
 
 ## 2.5
 question:
