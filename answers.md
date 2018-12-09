@@ -23,15 +23,16 @@ command:
 command:
 
 ## 2.7
-question:
-question:
-command:
+question: The started containers can be seen by CLI command docker_ps. By default setting, it shows the containers that are already started.
+question: The name is the same with the one I've made previously.
+command: docker ps
 
-command:
+command: docker rename zoonuree zoo_manage_nc, docker restart zoo_manage_nc
 
 ## 2.8
-question:
-output:
+question: Windows Server 2012 R2 Datacenter
+output: Operating System: Windows Server 2012 R2 Datacenter
+OSType: windows
 
 ## 3.1
 command:
